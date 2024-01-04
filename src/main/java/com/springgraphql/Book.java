@@ -1,4 +1,4 @@
-package com.springgraphql.springgraphql;
+package com.springgraphql;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.springgraphql.springgraphql;
+package com.springgraphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

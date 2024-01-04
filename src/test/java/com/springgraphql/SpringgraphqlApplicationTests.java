@@ -1,4 +1,4 @@
-package com.springgraphql.springgraphql;
+package com.springgraphql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
